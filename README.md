@@ -1,88 +1,144 @@
+<!--
+  github.com/Tachione · profile README
+  Editorial, brand-accented. Particle-named enterprise AI suite.
+  Violet → cyan → emerald accent. No emoji walls, no visitor counters.
+-->
+
 <div align="center">
 
-<img src="assets/tachione-mark.svg" width="110" alt="Tachione" />
+<img src="assets/tachione-mark.svg" width="92" alt="Tachione" />
 
 # Tachione
 
-### Turning data complexity into _competitive advantage_
+#### AI · Machine Learning · Data Governance
 
-**AI · Machine Learning · Data Governance** — engineered with scientific rigor and enterprise-grade architecture.
+<sub>Incorporated in Delaware, USA&nbsp;&nbsp;·&nbsp;&nbsp;Operations in Bogotá, Colombia&nbsp;&nbsp;·&nbsp;&nbsp;Founded Nov 2025</sub>
 
 <br/>
 
-[![Website](https://img.shields.io/badge/tachione.com-7C2BEF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tachione.com)
-[![Founded](https://img.shields.io/badge/Founded-Nov%202025-4EAFDF?style=for-the-badge)](https://tachione.com)
-[![Jurisdiction](https://img.shields.io/badge/Delaware-USA-10B981?style=for-the-badge)](https://tachione.com)
-[![Contact](https://img.shields.io/badge/Contact-Sales-1A1A1A?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:quantum.ml@tachione.com)
+[**`tachione.com`**](https://tachione.com)&nbsp;&nbsp;—&nbsp;&nbsp;[**`Contact sales`**](mailto:quantum.ml@tachione.com)
 
 </div>
 
----
+<br/>
 
-## ◆ Who we are
+> *Turning data complexity into competitive advantage.*
+> *We don't promise magic — we promise foundation: traceable, reproducible, auditable systems.*
 
-**Tachione** designs advanced **AI, machine learning, and data-governance** systems that turn complex enterprise data into precise, profitable, and strategic decisions — built for production from day one.
-
-> The name comes from _tachyon_ (Italian: **tachione**), the hypothetical particle that moves faster than light, at the frontier of scientific knowledge. It's not decoration — it's our thesis: **precision, structured energy, and a deep understanding of complex systems.**
-
-Incorporated in **Delaware, USA** · Operations in **Bogotá, Colombia** · Founded **November 2025**.
+<br/>
 
 ---
 
-## ◆ The ecosystem
+### `01 ─ Who we are`
 
-A growing suite of enterprise AI products, each named after a particle of physics — and each designed for production, governance, and scale from day one.
+**Tachione** designs advanced **AI, machine learning, and data-governance** systems that turn complex enterprise data into precise, profitable, and strategic decisions — built for production from day one, with scientific rigor and scalable architecture.
 
-| Product | Domain | What it does | Status |
-|---------|--------|--------------|--------|
-| **Quantum** | Machine Learning | End-to-end enterprise ML framework on PySpark & MLflow — from data exploration to production deployment, with full lifecycle control. | ![](https://img.shields.io/badge/-Available%20Now-10B981) |
-| **Negentropy** | Data Governance | Data quality, lineage tracking, versioning, and compliance — order and traceability for enterprise data operations. | ![](https://img.shields.io/badge/-In%20Development-7C2BEF) |
-| **Photon** | Computer Vision | Real-time image and video analysis at enterprise scale — detection, classification, and visual intelligence. | ![](https://img.shields.io/badge/-Coming%202026-4EAFDF) |
-| **Phonon** | Natural Language | Document intelligence and text analytics — extract insights, classify content, and automate language workflows. | ![](https://img.shields.io/badge/-In%20Research-8A8A8A) |
+The name comes from *tachyon* (Italian: **tachione**), the hypothetical particle that moves faster than light, at the frontier of scientific knowledge. It's not decoration — it's the thesis: **precision, structured energy, and a deep understanding of complex systems.**
 
----
+<br/>
 
-## ◆ What we do
+### `02 ─ The ecosystem`
 
-```text
-Machine Learning      Production-grade models with reproducibility and governance —
-                      classification, regression, clustering, time-series forecasting.
+A growing suite of enterprise AI products — each named after a particle of physics, each engineered for production, governance, and scale from day one.
 
-Advanced Analytics    Forecasting systems that anticipate demand, churn, and market
-                      shifts — built on evidence-based methodology.
+<table>
+<tr>
+<td valign="top" width="50%">
 
-Data Governance       Data quality, versioning, lineage, and compliance — infrastructure
-                      that brings order, traceability, and discipline.
+#### `i.` Quantum &nbsp; ![](https://img.shields.io/badge/-Available%20Now-0C0C10?style=flat-square&labelColor=0C0C10&color=10B981)
 
-MLOps & Lifecycle     End-to-end model lifecycle — from experiment tracking to production
-                      monitoring, standardized across the organization.
+**Machine Learning**
+
+End-to-end enterprise ML framework on **PySpark & MLflow** — from data exploration to production deployment, with AutoML, ensembles, calibration, explainability, and full lifecycle control. Core engine + visual platform + multi-tenant SaaS.
+
+</td>
+<td valign="top" width="50%">
+
+#### `ii.` Negentropy &nbsp; ![](https://img.shields.io/badge/-In%20Development-0C0C10?style=flat-square&labelColor=0C0C10&color=7C2BEF)
+
+**Data Governance**
+
+Data quality, lineage tracking, versioning, and compliance. Brings order, traceability, and discipline to enterprise data operations — every dataset, transformation, and model decision documented and auditable.
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+#### `iii.` Photon &nbsp; ![](https://img.shields.io/badge/-Coming%202026-0C0C10?style=flat-square&labelColor=0C0C10&color=4EAFDF)
+
+**Computer Vision**
+
+Real-time image and video analysis at enterprise scale — object detection, classification, and visual intelligence, optimized for industrial and commercial environments.
+
+</td>
+<td valign="top" width="50%">
+
+#### `iv.` Phonon &nbsp; ![](https://img.shields.io/badge/-In%20Research-0C0C10?style=flat-square&labelColor=0C0C10&color=8A8A8A)
+
+**Natural Language**
+
+Document intelligence and text analytics — extract insights, classify content, and automate language workflows over technical and enterprise documents.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### `03 ─ What we do`
+
+```diff
++ Machine Learning     Production-grade models with reproducibility and governance —
++                      classification, regression, clustering, time-series forecasting.
++ Advanced Analytics   Forecasting that anticipates demand, churn, and market shifts,
++                      built on evidence-based methodology.
++ Data Governance      Quality, versioning, lineage, and compliance — infrastructure
++                      that brings order, traceability, and discipline.
++ MLOps & Lifecycle    From experiment tracking to production monitoring, standardized
++                      across the organization.
 ```
 
----
+<br/>
 
-## ◆ Industries
+### `04 ─ Industries`
 
-**Telecommunications** · **Banking** · **Retail** · **Manufacturing** — plus energy, healthcare, and logistics. Structured ML lifecycle management tailored to the operational and regulatory reality of each sector.
+| Sector | Focus |
+| :--- | :--- |
+| **Telecommunications** | Churn prediction, network optimization, fraud detection — with ML governance at scale. |
+| **Banking** | Credit risk, fraud detection, and regulatory-ready model governance with full auditability. |
+| **Retail** | Demand forecasting, pricing optimization, and personalization with retraining discipline. |
+| **Manufacturing** | Predictive maintenance, quality control, and supply-chain analytics across plants. |
 
----
+<sub>Plus energy, healthcare, and logistics — the platform adapts to any data-intensive sector.</sub>
 
-## ◆ How we build trust
+<br/>
 
-- **Transparency** — every model decision is traceable. Full experiment tracking, audit trails, and explainability built in.
-- **Scalability** — architectures designed for growth, from prototype to enterprise scale with zero re-engineering.
-- **Ownership** — your data, your models, your infrastructure. Open standards, deployed on your terms — no vendor lock-in.
+### `05 ─ How we build trust`
 
----
+```text
+Transparency   Every model decision is traceable — experiment tracking, audit trails,
+               and explainability built into every solution we deliver.
+Scalability    Architectures designed for growth — prototype to enterprise scale with
+               zero re-engineering.
+Ownership      Your data, your models, your infrastructure. Open standards, deployed on
+               your terms — no vendor lock-in, ever.
+```
 
-## ◆ Built with
+<br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+### `06 ─ Toolkit`
+
+| | |
+| :--- | :--- |
+| **Languages** | Python · SQL · PySpark · Scala · TypeScript · Bash |
+| **ML / Deep Learning** | scikit-learn · XGBoost · LightGBM · SHAP · Optuna / Hyperopt · SynapseML |
+| **MLOps** | MLflow · Unity Catalog · Docker · GitHub Actions · Azure DevOps |
+| **Data Engineering** | Apache Spark · Delta Lake · Airflow · PostgreSQL |
+| **Cloud** | Azure · Databricks · AWS |
+| **Apps & Serving** | FastAPI · React · TypeScript |
+
+<br/>
 
 ---
 
@@ -90,10 +146,9 @@ MLOps & Lifecycle     End-to-end model lifecycle — from experiment tracking to
 
 ### Build with confidence. Ship with precision.
 
-Whether you need a production ML platform, a data-governance framework, or a custom AI solution — **Tachione delivers with scientific rigor and enterprise-grade architecture.**
+A production ML platform, a data-governance framework, or a custom AI solution — <br/>**delivered with scientific rigor and enterprise-grade architecture.**
 
-[![Visit tachione.com](https://img.shields.io/badge/Visit-tachione.com-7C2BEF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tachione.com)
-[![Contact Sales](https://img.shields.io/badge/Contact-quantum.ml@tachione.com-4EAFDF?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:quantum.ml@tachione.com)
+[**`tachione.com`**](https://tachione.com)&nbsp;&nbsp;—&nbsp;&nbsp;[**`quantum.ml@tachione.com`**](mailto:quantum.ml@tachione.com)
 
 <sub>© 2026 Tachione S.A.S. — All rights reserved.</sub>
 
