@@ -2,8 +2,8 @@
   <defs>
     <linearGradient id="tachione" x1="0" y1="0" x2="74.34" y2="74.82" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#7C2BEF"/>
-      <stop offset="0.5" stop-color="#4EAFDF"/>
-      <stop offset="1" stop-color="#10B981"/>
+      <stop offset="0.5" stop-color="#3E1188"/>
+      <stop offset="1" stop-color="#4EAFDF"/>
     </linearGradient>
   </defs>
   <g fill="url(#tachione)">

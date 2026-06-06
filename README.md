@@ -6,7 +6,8 @@
 
 <div align="center">
 
-<img src="assets/tachione-mark.svg" width="92" alt="Tachione" />
+<img src="assets/tachione-avatar.png" width="96" alt="Tachione" />
+
 
 # Tachione
 
